@@ -1,0 +1,22 @@
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Env vars
+.env
+
+# Editors
+.idea
+*.iml
+
+# Dependencies
+node_modules
+
+# Coverage reports
+coverage
+coverage.json
+
+# Hardhat
+cache
+artifacts
+types
